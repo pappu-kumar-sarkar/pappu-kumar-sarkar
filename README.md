@@ -1,9 +1,10 @@
 <h2 align="left">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1200&color=3B82F6&width=2200&lines=Hi+%F0%9F%91%8B+I'm+Pappu+Kumar%2C+a+Full-Stack+Web+Developer+(PHP+%26+Laravel)+from+Bettiah%2C+Bihar%2C+India"
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=5000&color=3B82F6&width=2200&repeat=false&lines=Hi+%F0%9F%91%8B+I'm+Pappu+Kumar%2C+a+Full-Stack+Web+Developer+(PHP+%26+Laravel)+from+Bettiah%2C+Bihar%2C+India"
     alt="Typing Animation"
   />
 </h2>
+>
 
 ###
 

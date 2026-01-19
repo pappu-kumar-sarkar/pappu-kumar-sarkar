@@ -1,7 +1,7 @@
-<h2 align="center">
-  <img
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1200&center=true&vCenter=true&width=900&color=3B82F6&lines=Hi+👋+I'm+Pappu+Kumar;Full-Stack+Web+Developer+(PHP+%26+Laravel);From+Bettiah,+Bihar,+India"
-    alt="Typing SVG"
+<h2 align="left">
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1200&width=2200&color=EC4899&lines=Hi+%F0%9F%91%8B+I'm+Pappu+Kumar%2C+a+Full-Stack+Web+Developer+(PHP+%26+Laravel)+from+Bettiah%2C+Bihar%2C+India&color=3B82F6&lines=Hi+%F0%9F%91%8B+I'm+Pappu+Kumar%2C+a+Full-Stack+Web+Developer+(PHP+%26+Laravel)+from+Bettiah%2C+Bihar%2C+India"
+    alt="Typing Animation"
   />
 </h2>
 

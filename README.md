@@ -1,10 +1,13 @@
 <h2 align="left">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=5000&color=3B82F6&width=2200&repeat=false&lines=Hi+%F0%9F%91%8B+I'm+Pappu+Kumar%2C+a+Full-Stack+Web+Developer+(PHP+%26+Laravel)+from+Bettiah%2C+Bihar%2C+India"
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1200&width=2200&color=EC4899&lines=Hi+%F0%9F%91%8B+I'm+Pappu+Kumar%2C+a+Full-Stack+Web+Developer+(PHP+%26+Laravel)+from+Bettiah%2C+Bihar%2C+India&color=3B82F6&lines=Hi+%F0%9F%91%8B+I'm+Pappu+Kumar%2C+a+Full-Stack+Web+Developer+(PHP+%26+Laravel)+from+Bettiah%2C+Bihar%2C+India"
     alt="Typing Animation"
   />
 </h2>
->
+
+
+
+
 
 ###
 
@@ -19,23 +22,18 @@
 
 ###
 
-<h3 align="left">🛠️ I code with</h3>
+<h3 align="left">🛠️ Tech Stack</h3>
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="30" alt="laravel logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo" />
+<div align="left" style="line-height: 2.2;">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
 </div>
+
 
 ###
 

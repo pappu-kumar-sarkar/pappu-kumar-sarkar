@@ -1,0 +1,22 @@
+name: Generate Snake
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 0 * * *"
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: pappu-kumar-sarkar
+          outputs: |
+            output/snake.svg
+
+      - uses: EndBug/add-and-commit@v9
+        with:
+          message: "generate snake"

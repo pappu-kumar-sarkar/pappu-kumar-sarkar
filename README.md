@@ -1,12 +1,13 @@
-<h2 align="left">
-  <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1200&width=2200&color=EC4899&lines=Hi+%F0%9F%91%8B+I'm+Pappu+Kumar%2C+a+Full-Stack+Web+Developer+(PHP+%26+Laravel)+from+Bettiah%2C+Bihar%2C+India&color=3B82F6&lines=Hi+%F0%9F%91%8B+I'm+Pappu+Kumar%2C+a+Full-Stack+Web+Developer+(PHP+%26+Laravel)+from+Bettiah%2C+Bihar%2C+India"
-    alt="Typing Animation"
-  />
-</h2>
+<h1 align="center">Hi 👋 I'm Pappu Kumar</h1>
+
+<p align="center" style="font-size:18px;">
+  🚀 Full-Stack Web Developer (PHP & Laravel)<br>
+  📍 Bettiah, Bihar, India
+</p>
 
 
 ###
+---
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=pappu-kumar-sarkar&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="130" alt="stats graph" />

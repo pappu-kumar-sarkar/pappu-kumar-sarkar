@@ -36,7 +36,7 @@
 <h3 align="left">🌐 Connect with me</h3>
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/pappu-kumar-sarkar/" target="_blank">
+  <a href="https://www.linkedin.com/in/coding-with-pappu/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35" />
   </a>
   <a href="mailto:pappukumar62713@gmail.com">

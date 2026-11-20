@@ -1,22 +1,21 @@
+
 <h2 align="left">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1200&width=2200&color=EC4899&lines=Hi+%F0%9F%91%8B+I'm+Pappu+Kumar%2C+a+Full-Stack+Web+Developer+(PHP+%26+Laravel)+from+Bettiah%2C+Bihar%2C+India&color=3B82F6&lines=Hi+%F0%9F%91%8B+I'm+Pappu+Kumar%2C+a+Full-Stack+Web+Developer+(PHP+%26+Laravel)+from+Bettiah%2C+Bihar%2C+India"
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1200&width=2200&color=3B82F6&lines=Hi+%F0%9F%91%8B+I'm+Pappu+Kumar%2C+a+Full-Stack+Web+Developer+(PHP+%26+Laravel)+from+Bettiah%2C+Bihar%2C+India"
     alt="Typing Animation"
   />
 </h2>
 
-
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pappu-kumar-sarkar&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="130" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pappu-kumar-sarkar&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="130" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=coding-with-pappu&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="130" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=coding-with-pappu&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="130" alt="languages graph" />
 </div>
-
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif" />
 
 ###
 
@@ -32,7 +31,6 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
 </div>
 
-
 ###
 
 <h3 align="left">🌐 Connect with me</h3>
@@ -41,10 +39,10 @@
   <a href="https://www.linkedin.com/in/pappu-kumar-sarkar/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35" />
   </a>
-  <a href="mailto:pappukumar62713@gmail.com" target="_blank">
+  <a href="mailto:pappukumar62713@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35" />
   </a>
-  <a href="https://github.com/pappu-kumar-sarkar" target="_blank">
+  <a href="https://github.com/coding-with-pappu" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" height="35" />
   </a>
 </div>
@@ -53,6 +51,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/pappu-kumar-sarkar/pappu-kumar-sarkar/main/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/coding-with-pappu/coding-with-pappu/main/output/snake.svg" alt="Snake animation" />
 
 ###
